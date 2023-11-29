@@ -1,14 +1,15 @@
 /*Rerira a decoração de texto dos links*/
 .link {
     text-decoration: none;
+    color: black;
 }
 
 /**/
 .button {
-    border: 1px solid #ffffff;
+    border: 3px solid #ffffff;
     padding: 10px;
     margin: 10px;
-    background: #BD7DFF;
+    background: #7e7e7e;
     border-radius: 10px;
 }
 
